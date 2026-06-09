@@ -1,0 +1,9 @@
+paramiko
+netmiko
+napalm
+pyyaml
+rich
+tabulate
+pytest
+aiofiles
+asyncssh
