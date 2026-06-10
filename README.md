@@ -106,7 +106,7 @@ python src/socket_lab/tcp_client.py
 Example result:
 
 ```text
-Server primio: Pozdrav iz Python TCP klijenta
+TCP server received: Hello from Python TCP client
 ```
 
 ---
