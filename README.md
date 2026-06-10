@@ -132,7 +132,7 @@ python src/socket_lab/udp_client.py
 Example result:
 
 ```text
-UDP server primio: Pozdrav preko UDP-a
+UDP server received: Hello over UDP
 ```
 
 ---
