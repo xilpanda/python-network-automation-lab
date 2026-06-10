@@ -3,5 +3,5 @@ devices:
     host: 127.0.0.1
     platform: linux
     username: sandro
-    password: password
+    password_env: LAB_SSH_PASSWORD
     port: 22
